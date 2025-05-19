@@ -24,3 +24,4 @@ urllib3==2.2.2
 utils==1.0.2
 xlrd==2.0.1
 xlwt==1.3.0
+sqlite3==3.45.1
