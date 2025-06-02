@@ -11,5 +11,5 @@ If you use this code, please cite our paper:
 
 ##Instructions on how to use the VGI Planning Tool Code:
 1) Install required Python libraries: install Python libraries required via pip (pip install -r requirements.txt)
-2) Prepare input data: Download the ZIP file from the Code section of the repository. After extracting it, ensure that the "VGI_config_files" folder contains 14 Excel files as input data.
+2) Prepare input data: Download the ZIP file from the Code section of the repository. After extracting it, ensure that the "VGI_config_files" folder contains 16 Excel files as input data.
 3) Run the application: Execute the main script by running "VGI_0_Main_Function.py"
